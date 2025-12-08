@@ -103,7 +103,12 @@ If you find DiffusionDrive is useful in your research or applications, please co
  @article{diffusiondrive,
   title={DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving},
   author={Bencheng Liao and Shaoyu Chen and Haoran Yin and Bo Jiang and Cheng Wang and Sixu Yan and Xinbang Zhang and Xiangyu Li and Ying Zhang and Qian Zhang and Xinggang Wang},
-  journal={arXiv preprint arXiv:2411.15139},
-  year={2024}
+  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,
+                  {CVPR} 2025, Nashville, TN, USA, June 11-15, 2025},
+  pages        = {12037--12047},
+  publisher    = {Computer Vision Foundation / {IEEE}},
+  year         = {2025},
+  url          = {https://openaccess.thecvf.com/content/CVPR2025/html/Liao\_DiffusionDrive\_Truncated\_Diffusion\_Model\_for\_End-to-End\_Autonomous\_Driving\_CVPR\_2025\_paper.html},
+  doi          = {10.1109/CVPR52734.2025.01124}
 }
 ```
